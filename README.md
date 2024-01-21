@@ -18,7 +18,7 @@ This was tested on Ubuntu 20.04 LTS and Fedora 32. Linux distributions other tha
 * run `./build.sh`
   + Note: switch to `fedora` branch if it doesn't compile and try again
 * run `sudo ./install.sh`
-* run `sudo modprobe cx511h` or reboot
+* run `sudo modprobe gc573` or reboot
 
 ## ToDo
 
